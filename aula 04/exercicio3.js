@@ -3,7 +3,7 @@ Faça um programa que receba dois números inteiros e gere os números inteiros 
 */
 
 let inicio = 7 
-let fim = 25
+let fim = 78
 
 
 while(inicio < fim-1){
